@@ -1,0 +1,17 @@
+Today I dove into CSV data & the Pandas library.
+Instead of wrestling with Python’s raw csv module, I learned how Pandas makes data handling so much cleaner.
+#Day 25 /100 Days of Code
+
+🔑 Highlights:
+
+- Load CSVs into DataFrames with just one line.
+- Treat columns like lists/dictionaries.
+- Quick stats with .mean(), .max().
+- Filter rows with simple conditions (data[data.day == "Monday"]).
+- Create & save new CSVs from scratch.
+
+'''It feels like unlocking Excel superpowers in Python — but way more flexible.'''
+
+Next step: applying this to real projects!
+
+#100DaysOfCode #Python #Pandas #DataScience #LearningInPublic
