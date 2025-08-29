@@ -1,0 +1,6 @@
+Day 26 of #100DaysOfCode 🐍
+Discovered Python list & dict comprehensions → loops in 1 line!
+Built a NATO phonetic alphabet tool that spells any word for you.
+Python making repetitive tasks elegant! ✨
+
+#LearnInPublic #Python
