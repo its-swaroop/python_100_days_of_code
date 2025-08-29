@@ -1,0 +1,17 @@
+
+Today I dove into Python list & dictionary comprehensions and learned how to turn loops into one-liners.
+#Day 26 /100DaysOfCode
+
+Highlights:
+
+- [n+1 for n in numbers] replaces multi-line loops.
+
+- {k:v for k,v in dict.items() if v>60} makes filtering dictionaries super clean.
+
+- Iterating through Pandas DataFrames with .iterrows() unlocks row-wise operations.
+
+- Built a NATO phonetic alphabet tool that converts any input word into phonetic code words. 
+
+'''Python makes repetition elegant, and comprehension is the magic key 🔑.'''
+
+#Python #Coding #LearnInPublic #100DaysOfCode
