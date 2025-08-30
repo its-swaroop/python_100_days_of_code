@@ -1,0 +1,19 @@
+Until now, most of my projects were text-based. With Tkinter, I learned how to:
+
+#Day 27/100DaysOfCode #journey → diving into Tkinter GUIs in Python 🐍
+
+- Create windows, labels, buttons, and input fields.
+
+- Use layout managers (pack, place, grid).
+
+- Handle events like button clicks.
+
+- Work with function arguments (*args, **kwargs) in a real project.
+
+- Build a small Miles to Km converter app as practice.
+
+'''What stood out: GUIs are all about event-driven programming — instead of our code running top-to-bottom, the program waits for the user to act. That shift in thinking is powerful.'''
+
+If you’re learning Python and want to see instant, interactive results, Tkinter is a great next step.
+
+#Python #100DaysOfCode #LearningInPublic #Programming #GUI
