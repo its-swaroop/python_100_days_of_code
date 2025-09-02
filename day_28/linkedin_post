@@ -1,0 +1,18 @@
+Today I built a Pomodoro Timer App using Python’s Tkinter library.
+Day 28 of #100DaysOfCode
+
+This project helped me practice both GUI layout (labels, canvas, grid) and event-driven logic (using Tkinter’s after() instead of blocking the UI).
+
+Key takeaways:
+
+-after() lets timers run without freezing the GUI
+-Session cycle: Work → Break → Work → Long Break
+-after_cancel() is crucial for the Reset button (avoids multiple timers)
+-A checkmark tracker gives instant visual feedback on progress
+
+Next step: extend it with a Pause button, custom durations, or dark mode toggle.
+
+
+#Python #Tkinter #100DaysOfCode #LearningInPublic #Productivity
+
+comment: Sharing this here as part of my learning-in-public journey — maybe it sparks ideas for your own productivity tools.
