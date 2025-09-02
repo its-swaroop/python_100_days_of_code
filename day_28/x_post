@@ -1,0 +1,12 @@
+Day 28 of #100DaysOfCode
+Built a Pomodoro Timer in Tkinter
+
+Learned:
+-after() for async countdown (no frozen GUI)
+-Reset via after_cancel()
+-Work/Break cycle automation
+-Checkmark tracker for progress
+
+Next: add Pause and Dark Mode
+
+#Python #LearningInPublic
