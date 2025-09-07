@@ -1,0 +1,18 @@
+“Anything that can go wrong, will go wrong.” – Murphy’s Law
+Today’s #100DaysOfCode session reminded me just how true that is in software development.
+
+We worked on upgrading a password manager app:
+-Moved from plain text files to JSON storage for safer, structured data.
+-Added search functionality to quickly retrieve credentials.
+-Used try/except blocks to prevent crashes when files are missing or corrupted.
+
+Why this matters:
+When handling real-world data, it’s not enough for code to work. It has to fail gracefully.
+Murphy’s Law guarantees something will break — our job as developers is to make sure it doesn’t take everything down with it.
+
+Next step: Adding encryption so even if files are leaked, data stays safe.
+
+
+#Python #Tkinter #JSON #ErrorHandling #LearningInPublic #100DaysOfCode
+
+comment : How do you build defensive coding habits into your projects?
