@@ -1,0 +1,70 @@
+# Day 1 🐍 – First Lines of Python
+
+Just wrote my first line of Python:
+
+```python
+print("Hello, world!")
+```
+
+It’s wild how a single command lights up the console. Strings need quotes, errors scream at me, and PyCharm nags me about missing newlines. Debugging = detective work.
+Takeaway: computers are picky, but precise.
+
+---
+
+### Day 2 🔢 – Data Types & Tip Calculator
+
+Python doesn’t just yell text back. It has moods:
+
+* `"123"` → string
+* `123` → int
+* `3.14` → float
+* `True` → bool
+
+Discovered `len("hello")` works, but `len(123)` crashes.
+Ended the day splitting a bill fairly: tip %, friends, math → **mini tip calculator**. My first useful program.
+
+---
+
+### Day 3 🤔 – Ifs, Logic & Treasure Island
+
+`if`, `elif`, `else` = Python’s way of branching fate.
+Code = choose-your-own-adventure book.
+Example:
+
+```python
+if door == "left":
+    print("Game Over")
+else:
+    print("You survive… for now")
+```
+
+Built a text-based **Treasure Island** game. Felt like author + dungeon master + debugger at the same time.
+
+---
+
+### Day 4 🎲 – Random & Rock-Paper-Scissors
+
+Computers don’t do “real” random — they fake it.
+But `random.choice()` is enough to let me lose to my own program at Rock-Paper-Scissors.
+Also: lists = Python’s backpack. You can store fruits 🍎, or ASCII fists ✊.
+Key lesson: order + randomness = games.
+
+---
+
+### Day 5 🔐 – Loops & Passwords
+
+Bart Simpson should’ve learned `for` loops — 100 lines of punishment in one line of code.
+`range(1, 101)` = me vs Gauss, summing 1–100 in seconds (5050!).
+Project of the day: a **password generator**.
+Easy mode → predictable order (letters→symbols→numbers).
+Hard mode → shuffle it into chaos.
+Now I can cook up passwords hackers won’t touch.
+
+---
+
+✨ That’s Days 1–5 in my #100DaysOfCode.
+Early days feel messy, but every project is a small superpower unlocked.
+
+---
+
+...
